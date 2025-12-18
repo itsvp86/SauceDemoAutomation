@@ -14,7 +14,7 @@ using Selenium WebDriver and TestNG, following the Page Object Model (POM) struc
 
 ## Project Structure
 
-saucedemo/
+saucedemo/ 
 │
 ├── src/
 │   ├── main/java/
