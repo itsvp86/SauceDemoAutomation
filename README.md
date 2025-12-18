@@ -34,7 +34,7 @@ saucedemo/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-username>/SauceDemoAutomation.git
+   git clone https://github.com/itsvp86/SauceDemoAutomation.git
 Open the Project in IDE
 Open the cloned project in Eclipse or IntelliJ IDEA.
 
